@@ -75,7 +75,7 @@ arcade.draw_line(500, 550, 450, 600, arcade.color.YELLOW, 3)
 arcade.draw_line(500, 550, 450, 500, arcade.color.YELLOW, 3)
 
 # Draw text at (150, 230) with a font size of 24 pts.
-arcade.draw_text("Arbor Day - Plant a Tree!",
+arcade.draw_text("Grillo's Pickles - World's Best Pickle!",
                  150, 230,
                  arcade.color.WHITE, 24)
 
